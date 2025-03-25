@@ -32,7 +32,7 @@ PKT_LENGTH = 3
 PKT_INSTRUCTION = 4
 PKT_ERROR = 4
 PKT_PARAMETER0 = 5
-
+2
 # Protocol 1.0 Error bit
 ERRBIT_VOLTAGE = 1  # Supplied voltage is out of the range (operating volatage set in the control table)
 ERRBIT_ANGLE = 2  # Goal position is written out of the range (from CW angle limit to CCW angle limit)
